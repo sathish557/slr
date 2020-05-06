@@ -1,0 +1,1 @@
+web: gunicorn slr_app:app
